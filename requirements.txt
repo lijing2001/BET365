@@ -19,6 +19,6 @@ pyparsing==2.2.0
 requests==2.14.2
 service-identity==16.0.0
 six==1.10.0
-Twisted==17.1.0
+Twisted==22.2.0
 txaio==2.7.1
 zope.interface==4.4.1
